@@ -4,9 +4,9 @@ I'm a passionate software engineer with a strong background in hardware and soft
 
 ## 🛠 Technical Skills
 
-- **Programming Languages:** Java, Python, C#, C++, JavaScript, TypeScript, PHP
+- **Programming Languages:** Java, Python, C#, C++, JavaScript, TypeScript, PHP, Bash
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Terraform, Ansible
-- **Web Development:** Node.js, ASP.NET, HTML, CSS, React
+- **Web Development:** Node.js, React, ASP.NET, HTML, CSS
 - **Databases:** MySQL, PostgreSQL, MongoDB, MSSQL
 - **Other Tools:** Git, Linux, Bash, CI/CD, Virtualisation (Vmware, KVM), 3D Modelling & Printing
 
