@@ -4,11 +4,11 @@ I'm a passionate software engineer with a strong background in hardware and soft
 
 ## 🛠 Technical Skills
 
-- **Programming Languages:** Java, Python, C#, C++, JavaScript, TypeScript, PHP, Bash
+- **Programming Languages:** Java, Python, C#, C++, JavaScript, TypeScript, Bash
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Terraform, Ansible
-- **Web Development:** Node.js, React, ASP.NET, HTML, CSS
+- **Web Development:** Node.js, React, ASP.NET
 - **Databases:** MySQL, PostgreSQL, MongoDB, MSSQL
-- **Other Tools:** Git, Linux, Bash, CI/CD, Virtualisation (Vmware, KVM), 3D Modelling & Printing
+- **Other Tools:** Istio, Git, Linux, CI/CD, Virtualisation (Vmware, KVM), 3D Modelling & Printing
 
 ## 🏆 Achievements
 
@@ -21,8 +21,17 @@ I'm a passionate software engineer with a strong background in hardware and soft
 
 ## 🧑‍💻 Professional Experience
 
+### Senior Software Engineer | Lloyds Banking Group (Scottish Widows)
+*March 2025 - Present | Edinburgh, UK*
+
+Focused on developing and maintaining robust, scalable software across cloud-first and on-prem environments. Skilled in C#, Node.js, TypeScript, React, Python, Docker, Kubernetes, Jenkins, Istio, Apigee, and GCP, with strong database expertise in Postgres and MSSQL.
+
+Leads a team of 14 engineers, driving high-quality delivery through technical direction, mentoring, and hands-on leadership. Passionate about enabling others, having supported 10 apprentices and graduates through their development programs and production-grade projects used daily by thousands of Scottish Widows customers and colleagues.
+
+Takes full ownership of the route-to-live (RTL) lifecycle — from feature refinement and development to automated testing, CI/CD pipelines, and production deployment — ensuring resilient, maintainable, and secure solutions across all platforms.
+
 ### Software Engineer | Lloyds Banking Group
-*2023 - Present | Edinburgh, UK*
+*November 2023 - March 2025 | Edinburgh, UK*
 - Innovating and enhancing software development practices within the Insurance Pensions and Investments division.
 
 ### Software, Cloud, DevOps Engineer | Example1 Ltd
@@ -41,7 +50,7 @@ Successfully designed and launched and online booking system which enabled custo
 ## 📫 Get in Touch
 
 - **Website:** [www.calluminglis.com](http://www.calluminglis.com)
-- **Email:** [callum@calluminglis.com](mailto:callum@calluminglis.com)
+- **Email:** [github@calluminglis.com](mailto:github@calluminglis.com)
 - **LinkedIn:** [Callum Inglis](https://www.linkedin.com/in/calluminglis/)
 
 ## 🌟 Interests
