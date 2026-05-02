@@ -63,9 +63,7 @@ Successfully designed and launched and online booking system which enabled custo
 
 ## 📫 Get in Touch
 
-- **Website:** [www.calluminglis.com](http://www.calluminglis.com)
-- **Email:** [github@calluminglis.com](mailto:github@calluminglis.com)
-- **LinkedIn:** [Callum Inglis](https://www.linkedin.com/in/calluminglis/)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.calluminglis.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github@calluminglis.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calluminglis/)
 
 ## 🌟 Interests
 
